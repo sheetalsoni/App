@@ -5,6 +5,7 @@ include 'core/init.php';
 
 DB::getInstance();
 echo 'hii';
+echo 'Hello';
 
 
 ?>
